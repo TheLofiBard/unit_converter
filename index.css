@@ -73,4 +73,5 @@ h2 {
 
 .length-div > p, .volume-div > p, .mass-div > p {
     margin-top: 0px;
+    color: white;
 }
